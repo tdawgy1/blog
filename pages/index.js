@@ -17,6 +17,7 @@ export default function Home({ posts }) {
           <Post key={index} post={post} />
         ))}
       </div>
+      <div className="blankSpace"></div>
     </div>
   )
 }
