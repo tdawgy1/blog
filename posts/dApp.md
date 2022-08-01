@@ -1,5 +1,5 @@
 ---
-title: 'What is a Dapp'
+title: 'What is a Dapp?'
 date: 'March 5, 2021'
 excerpt: 'DApp has been a tech buzz word lately what exactly does that mean'
 cover_image: '/images/posts/decen.png'
