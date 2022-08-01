@@ -1,7 +1,7 @@
 ---
 title: 'Where to start coding?'
 date: 'May 23, 2022'
-excerpt: 'If you want to start coding, but don't know where to start this article is for you'
+excerpt: 'If you want to start coding, but dont know where to start this article is for you'
 cover_image: '/images/posts/code.jpg'
 ---
 
